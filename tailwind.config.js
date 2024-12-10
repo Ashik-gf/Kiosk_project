@@ -6,9 +6,9 @@ export default {
   ],
   theme: {
     // Custom theme configurations here
-    aspectRatio: {
-      '9/16': '9 / 16',
-    },
+    // aspectRatio: {
+    //   '9/16': '9 / 16',
+    // },
   },
   plugins: [],
 }
